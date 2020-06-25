@@ -1,0 +1,1 @@
+Using the strategy pattern
